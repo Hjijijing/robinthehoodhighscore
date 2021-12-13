@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/robinthehoodhighscore/static/css/main.176b7268.chunk.css",
+    "main.js": "/robinthehoodhighscore/static/js/main.aafe39a2.chunk.js",
+    "main.js.map": "/robinthehoodhighscore/static/js/main.aafe39a2.chunk.js.map",
+    "runtime-main.js": "/robinthehoodhighscore/static/js/runtime-main.c700e0e6.js",
+    "runtime-main.js.map": "/robinthehoodhighscore/static/js/runtime-main.c700e0e6.js.map",
+    "static/js/2.19cd49d6.chunk.js": "/robinthehoodhighscore/static/js/2.19cd49d6.chunk.js",
+    "static/js/2.19cd49d6.chunk.js.map": "/robinthehoodhighscore/static/js/2.19cd49d6.chunk.js.map",
+    "index.html": "/robinthehoodhighscore/index.html",
+    "static/css/main.176b7268.chunk.css.map": "/robinthehoodhighscore/static/css/main.176b7268.chunk.css.map",
+    "static/js/2.19cd49d6.chunk.js.LICENSE.txt": "/robinthehoodhighscore/static/js/2.19cd49d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c700e0e6.js",
+    "static/js/2.19cd49d6.chunk.js",
+    "static/css/main.176b7268.chunk.css",
+    "static/js/main.aafe39a2.chunk.js"
+  ]
+}
