@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/robinthehoodhighscore/static/css/main.bf32401c.chunk.css",
-    "main.js": "/robinthehoodhighscore/static/js/main.aafe39a2.chunk.js",
-    "main.js.map": "/robinthehoodhighscore/static/js/main.aafe39a2.chunk.js.map",
+    "main.css": "/robinthehoodhighscore/static/css/main.3baa479f.chunk.css",
+    "main.js": "/robinthehoodhighscore/static/js/main.162f466d.chunk.js",
+    "main.js.map": "/robinthehoodhighscore/static/js/main.162f466d.chunk.js.map",
     "runtime-main.js": "/robinthehoodhighscore/static/js/runtime-main.c700e0e6.js",
     "runtime-main.js.map": "/robinthehoodhighscore/static/js/runtime-main.c700e0e6.js.map",
     "static/js/2.19cd49d6.chunk.js": "/robinthehoodhighscore/static/js/2.19cd49d6.chunk.js",
     "static/js/2.19cd49d6.chunk.js.map": "/robinthehoodhighscore/static/js/2.19cd49d6.chunk.js.map",
     "index.html": "/robinthehoodhighscore/index.html",
-    "static/css/main.bf32401c.chunk.css.map": "/robinthehoodhighscore/static/css/main.bf32401c.chunk.css.map",
+    "static/css/main.3baa479f.chunk.css.map": "/robinthehoodhighscore/static/css/main.3baa479f.chunk.css.map",
     "static/js/2.19cd49d6.chunk.js.LICENSE.txt": "/robinthehoodhighscore/static/js/2.19cd49d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c700e0e6.js",
     "static/js/2.19cd49d6.chunk.js",
-    "static/css/main.bf32401c.chunk.css",
-    "static/js/main.aafe39a2.chunk.js"
+    "static/css/main.3baa479f.chunk.css",
+    "static/js/main.162f466d.chunk.js"
   ]
 }
